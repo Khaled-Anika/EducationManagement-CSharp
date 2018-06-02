@@ -1,0 +1,12 @@
+F:\7th sem\C#\EducationSystem\EducationSystem\bin\Debug\EducationSystem.exe.config
+F:\7th sem\C#\EducationSystem\EducationSystem\bin\Debug\EducationSystem.exe
+F:\7th sem\C#\EducationSystem\EducationSystem\bin\Debug\EducationSystem.pdb
+F:\7th sem\C#\EducationSystem\EducationSystem\obj\Debug\EducationSystem.csprojAssemblyReference.cache
+F:\7th sem\C#\EducationSystem\EducationSystem\obj\Debug\EducationSystem.Form1.resources
+F:\7th sem\C#\EducationSystem\EducationSystem\obj\Debug\EducationSystem.Properties.Resources.resources
+F:\7th sem\C#\EducationSystem\EducationSystem\obj\Debug\EducationSystem.csproj.GenerateResource.cache
+F:\7th sem\C#\EducationSystem\EducationSystem\obj\Debug\EducationSystem.csproj.CoreCompileInputs.cache
+F:\7th sem\C#\EducationSystem\EducationSystem\obj\Debug\EducationSystem.exe
+F:\7th sem\C#\EducationSystem\EducationSystem\obj\Debug\EducationSystem.pdb
+F:\7th sem\C#\EducationSystem\EducationSystem\obj\Debug\EducationSystem.login.resources
+F:\7th sem\C#\EducationSystem\EducationSystem\obj\Debug\EducationSystem.MDIParent1.resources
